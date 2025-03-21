@@ -1,16 +1,13 @@
-## Hi there 👋
+## About Me
+Bachelor of Arts in Computer Science and Physics from Rollins College<br>
+Passionate about problem solving and building practical solutions<br>
+Fun Fact - 🤺 Once fenced, now I duel with bugs<br>
 
-<!--
-**parker1274/parker1274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parker1274&hide_progress=true&theme=dark)
 
-Here are some ideas to get you started:
+## Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanghunpark-cs) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+sanghunpark.cs@gmail.com
